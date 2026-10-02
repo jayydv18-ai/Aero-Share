@@ -1,0 +1,6 @@
+{
+  "name": "AeroShare",
+  "description": "Fast, secure nearby file sharing between Android devices with instant discovery and real-time streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
